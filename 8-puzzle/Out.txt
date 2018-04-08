@@ -1,0 +1,142 @@
+beginning 1-move.json
+	backtrack1:
+		85 Boards Generated.
+		29 Move solution found.
+	Iterative Deepening: 
+		12 Boards Generated.
+		1 Move solution found.
+	GraphSearch: 
+		3 Boards Generated.
+		1 Move solution found.
+	A* Nodes: 
+		3 Boards Generated.
+		1 Move solution found.
+beginning 2-moves.json
+	backtrack1:
+		9 Boards Generated.
+		2 Move solution found.
+	Iterative Deepening: 
+		29 Boards Generated.
+		2 Move solution found.
+	GraphSearch: 
+		26 Boards Generated.
+		2 Move solution found.
+	A* Nodes: 
+		7 Boards Generated.
+		2 Move solution found.
+beginning 3-moves.json
+	backtrack1:
+		273,086 Boards Generated.
+		49 Move solution found.
+	Iterative Deepening: 
+		74 Boards Generated.
+		3 Move solution found.
+	GraphSearch: 
+		30 Boards Generated.
+		3 Move solution found.
+	A* Nodes: 
+		10 Boards Generated.
+		3 Move solution found.
+beginning 4-moves.json
+	backtrack1:
+		156,898 Boards Generated.
+		50 Move solution found.
+	Iterative Deepening: 
+		99 Boards Generated.
+		4 Move solution found.
+	GraphSearch: 
+		66 Boards Generated.
+		4 Move solution found.
+	A* Nodes: 
+		12 Boards Generated.
+		4 Move solution found.
+beginning 5-moves.json
+	backtrack1:
+		41,076 Boards Generated.
+		47 Move solution found.
+	Iterative Deepening: 
+		330 Boards Generated.
+		5 Move solution found.
+	GraphSearch: 
+		148 Boards Generated.
+		5 Move solution found.
+	A* Nodes: 
+		15 Boards Generated.
+		5 Move solution found.
+beginning 10-moves.json
+	backtrack1:
+		78,778 Boards Generated.
+		50 Move solution found.
+	Iterative Deepening: 
+		4,764 Boards Generated.
+		10 Move solution found.
+	GraphSearch: 
+		1,644 Boards Generated.
+		10 Move solution found.
+	A* Nodes: 
+		34 Boards Generated.
+		10 Move solution found.
+beginning 15-moves.json
+	backtrack1:
+		355,597 Boards Generated.
+		47 Move solution found.
+	Iterative Deepening: 
+		72,957 Boards Generated.
+		15 Move solution found.
+	GraphSearch: 
+		36,296 Boards Generated.
+		15 Move solution found.
+	A* Nodes: 
+		110 Boards Generated.
+		15 Move solution found.
+beginning 20-moves.json
+	backtrack1:
+		70,769 Boards Generated.
+		50 Move solution found.
+	Iterative Deepening: 
+		827,135 Boards Generated.
+		20 Move solution found.
+	GraphSearch: 
+		430,862 Boards Generated.
+		20 Move solution found.
+	A* Nodes: 
+		678 Boards Generated.
+		20 Move solution found.
+beginning 25-moves.json
+	backtrack1:
+		4,419,923 Boards Generated.
+		49 Move solution found.
+	Iterative Deepening: 
+		20,286,042 Boards Generated.
+		25 Move solution found.
+	GraphSearch: 
+		7,593,202 Boards Generated.
+		25 Move solution found.
+	A* Nodes: 
+		8,612 Boards Generated.
+		25 Move solution found.
+beginning problem-1.json
+	backtrack1:
+		5,287,042 Boards Generated.
+		50 Move solution found.
+	Iterative Deepening: 
+		28,877,996 Boards Generated.
+		26 Move solution found.
+	GraphSearch: 
+		14,077,218 Boards Generated.
+		26 Move solution found.
+	A* Nodes: 
+		17,950 Boards Generated.
+		26 Move solution found.
+beginning 15-puzzle.json
+	backtrack1:
+		Memory range error (60+ gb)
+        Iterative Deepening:
+                50,219 Boards Generated.
+                11 Move solution found.
+        GraphSearch:
+                24,364 Boards Generated.
+                11 Move solution found.
+        A*:
+                53 Boards Generated.
+                11 Move solution found.
